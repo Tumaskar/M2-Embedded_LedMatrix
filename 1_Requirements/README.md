@@ -62,7 +62,7 @@ How : This project is implemented by using functionalities of c.
 | ID | Description | Status |
 | --- | --- | --- |
 | HLR_1 | Basic Operation | Implemented |
-| HLR_2 | Microcontroller |
+| HLR_2 | Microcontroller | Implemented |
 | HLR_3 | Keypad | Implemented |
 | HLR-4 |Lcd Screen | Implemented |
 
