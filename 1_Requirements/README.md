@@ -25,7 +25,7 @@ uses the light-modulating properties of liquid crystals combined with polarizers
 ## SWOT Analysis
 
  Strength :
-1. This game is for fun purpose.
+1. Low cost system
 
 Weakness :
 1. This game can be addictive.
@@ -61,13 +61,16 @@ How : This project is implemented by using functionalities of c.
 ## High Level Requirements :
 | ID | Description | Status |
 | --- | --- | --- |
-| HLR_1 | Basic Operation | Implemented
-| HLR_2 | Keypad | Implemented |
-| HLR-3 |Lcd Screen | Implemented |
+| HLR_1 | Basic Operation | Implemented |
+| HLR_2 | Microcontroller |
+| HLR_3 | Keypad | Implemented |
+| HLR-4 |Lcd Screen | Implemented |
 
 
 ## Low Level Requiremnets :
 | ID | Description | Status |
 | --- | --- | --- |
-| LLR_1 | User should be able to give inputs | Implemented |
-| LLR_2 | Displaying the Output for the given Inputs | Implemented |
+| LLR_1 | 	ATmega328 | Implemented |
+| LLR_2 | User should be able to give inputs | Implemented |
+| LLR_3 | Displaying the Output for the given Inputs | Implemented |
+| LLR_4 | 	SimulIDE | Implemented |
