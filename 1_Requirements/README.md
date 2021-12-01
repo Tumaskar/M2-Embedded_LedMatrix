@@ -32,10 +32,11 @@ Weakness :
 1. Requires handson experience about Embedded programming.
  
 Opportunities :
-1.
+1. Can upgrade this system with new and upcomming technologies.
 
 Threats :
-1. Game can crash due to some technical erroes.
+1. Some time the system firmware gets defected as its very diffcuilt to unlock the system. 
+
 
 ## 4W's and 1'H
 4W's
