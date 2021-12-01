@@ -26,7 +26,7 @@ uses the light-modulating properties of liquid crystals combined with polarizers
 
  Strength :
 1. Low cost system
-2. Experience of working on ATmega328 microcontroller and doing simulation on SimulIde.
+2. Experience the working on ATmega328 microcontroller and doing simulation on SimulIde.
 
 Weakness :
 1. Requires handson experience about Embedded programming.
