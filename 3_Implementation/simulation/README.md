@@ -4,5 +4,5 @@
 | Column 1 Header | Column 2 Header |
 | ----- | ----- |
 | Initial Image | Implementation of circuit |
-| Display | Input |
-| Display | Output |
+| Display | Input image |
+| Display | Output image |
