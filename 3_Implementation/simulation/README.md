@@ -1,2 +1,8 @@
 ## Simulation Images.
 
+# Folder Structure
+| Column 1 Header | Column 2 Header |
+| ----- | ----- |
+| Initial Image | Implementation of circuit |
+| Display | Input |
+| Display | Output |
