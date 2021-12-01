@@ -40,20 +40,21 @@ Threats :
 ## 4W's and 1'H
 4W's
 
-Who : Can be done by person having knowledge of embedded .
+Who : Any one can use this device.
 
 
-What :Do programming of microcontroller and simulation .
+What : It is a Digital security system. 
 
 
-When : This game can be played whenever you are feeling bored or want to figure out ways  and outcome of the game. 
+When : To eliminate the traditional mechanical lock system. 
 
 
-Where : Can be implemented on the Laptop or PC .
+Where : Can be implemented where security is needed,or can be use for security purpose.
 
 1'H
 
-How : Programming and simulation can be done on terminal and simulide from Personal computer or laptop.
+How : This project is implemented by using avr microcontroller ATMEGA328 ,16X2 Lcd Screen ,4x4 Matrix Keypad.
+      And by using functionalities of c.
 
 
 
