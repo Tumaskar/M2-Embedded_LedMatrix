@@ -26,12 +26,13 @@ uses the light-modulating properties of liquid crystals combined with polarizers
 
  Strength :
 1. Low cost system
+2. Experience of working on ATmega328 microcontroller and doing simulation on SimulIde.
 
 Weakness :
-1. This game can be addictive.
+1. Requires handson experience about Embedded programming.
  
 Opportunities :
-1. Computer gaming.
+1.
 
 Threats :
 1. Game can crash due to some technical erroes.
@@ -39,20 +40,20 @@ Threats :
 ## 4W's and 1'H
 4W's
 
-Who : Any one can play this game
+Who : Can be done by person having knowledge of embedded .
 
 
-What : Virtual medium to  play the game.
+What :Do programming of microcontroller and simulation .
 
 
 When : This game can be played whenever you are feeling bored or want to figure out ways  and outcome of the game. 
 
 
-Where : Can be made availabel on sites.
+Where : Can be implemented on the Laptop or PC .
 
 1'H
 
-How : This project is implemented by using functionalities of c.
+How : Programming and simulation can be done on terminal and simulide from Personal computer or laptop.
 
 
 
