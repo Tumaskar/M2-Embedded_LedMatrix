@@ -82,11 +82,20 @@ How : This project is implemented by using functionalities of c.
  
  
 ## Implementation
-# Folder Structure
+
 | Column 1 Header | Column 2 Header |
 | ----- | ----- |
 | Inc | All header files |
 | Src | Main source code for system |
 | main | All source code and data for testing purposes |
 | simaulation | software | 
+
+## TestPlan
+
+| ID | Description | Status |
+| --- | --- | --- |
+| 1 | Simul Ide | Implemented |
+| 2 | Microcontroller, Keypad, Lcd Screen | Implemented |
+| 3 | Inputs  | Implemented |
+| 4 |Output | Implemented |
 
